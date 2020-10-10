@@ -1,0 +1,6 @@
+[submodule "react-level-1"]
+	path = react-level-1
+	url = https://github.com/mykhaliuk/react-level-1.git
+[submodule "react-level-2"]
+	path = react-level-2
+	url = https://github.com/mykhaliuk/react-level-2.git
